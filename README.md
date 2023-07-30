@@ -10,7 +10,7 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajarghifar/happybirthday
+    $ git clone https://github.com/sodkun/JAE
 
     # Go into the repository
     $ cd happybirthday
